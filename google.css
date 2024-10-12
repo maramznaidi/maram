@@ -1,0 +1,49 @@
+body{
+    position:relative;
+}
+#img{
+    position: absolute;
+    left: 30%;
+    top:100px;
+
+}
+#re{
+    width: 500px;
+    height: 50px;
+    border-radius: 30%;
+    position: absolute;
+    left: 22%;
+    top:200px
+}
+#b1{
+    width: 200px;
+    height: 40px;
+    border-color: gray;
+    background-color: gray;
+    position: absolute;
+    left: 25%;
+    top:300px;
+    padding: 2px;
+    size: 10px;
+}
+#b2{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    border-color: gray;
+    background-color: gray;
+    left: 48%;
+    top:300px;
+    padding: 2px;
+    size: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+label{
+    position: relative;
+    left: 40%;
+    top:400px;
+
+}
